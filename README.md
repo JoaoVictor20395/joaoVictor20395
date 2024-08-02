@@ -6,4 +6,5 @@ Nós estamos trabalhando com projetos de **JavaScript** e **HTML**;
 00001114414013sp@al.educacao.sp.gov.br💻📩
 
 
-https://media1.tenor.com/m/YGV1m0f5oOAAAAAC/homer-simpson-hide-in-shrubs.gif
+![homer-simpson-hide-in-shrubs 1](https://github.com/user-attachments/assets/ac609c45-0e14-472e-9000-09a8bd1d6a4e)
+
